@@ -1,0 +1,300 @@
+id,tournament_id,stat_category,player_name,stat_value
+1,1,"Most Runs","Shaun Marsh",616
+2,1,"Most Wickets","Sohail Tanvir",22
+3,1,"Best Batting Average","Shaun Marsh",68.44
+4,1,"Best Bowling Average","Sohail Tanvir",12.09
+5,1,"Most Hundreds","Shaun Marsh",1
+6,1,"Most Fifties","Gautam Gambhir",5
+7,1,"Most Sixes","Sanath Jayasuriya",31
+8,1,"Most Fours","Gautam Gambhir",68
+9,2,"Most Runs","Matthew Hayden",572
+10,2,"Most Wickets","RP Singh",23
+11,2,"Best Batting Average","Matthew Hayden",52.00
+12,2,"Best Bowling Average","Anil Kumble",16.52
+13,2,"Most Hundreds","AB de Villiers",1
+14,2,"Most Fifties","Matthew Hayden",5
+15,2,"Most Sixes","Adam Gilchrist",29
+16,2,"Most Fours","Matthew Hayden",60
+17,3,"Most Runs","Sachin Tendulkar",618
+18,3,"Most Wickets","Pragyan Ojha",21
+19,3,"Best Batting Average","Sachin Tendulkar",47.54
+20,3,"Best Bowling Average","Doug Bollinger",12.77
+21,3,"Most Hundreds","Murali Vijay",1
+22,3,"Most Fifties","Sachin Tendulkar",5
+23,3,"Most Sixes","Robin Uthappa",27
+24,3,"Most Fours","Sachin Tendulkar",86
+25,4,"Most Runs","Chris Gayle",608
+26,4,"Most Wickets","Lasith Malinga",28
+27,4,"Best Batting Average","Chris Gayle",67.55
+28,4,"Best Bowling Average","Lasith Malinga",13.39
+29,4,"Most Hundreds","Chris Gayle",2
+30,4,"Most Fifties","Chris Gayle",3
+31,4,"Most Sixes","Chris Gayle",44
+32,4,"Most Fours","Virat Kohli",67
+33,5,"Most Runs","Chris Gayle",733
+34,5,"Most Wickets","Lasith Malinga",28
+35,5,"Best Batting Average","Michael Hussey",44.00
+36,5,"Best Bowling Average","Lasith Malinga",18.25
+37,5,"Most Hundreds","Chris Gayle",2
+38,5,"Most Fifties","Michael Hussey",6
+39,5,"Most Sixes","Chris Gayle",59
+40,5,"Most Fours","Michael Hussey",66
+41,6,"Most Runs","Michael Hussey",733
+42,6,"Most Wickets","Dwayne Bravo",26
+43,6,"Best Batting Average","Michael Hussey",52.35
+44,6,"Best Bowling Average","Dwayne Bravo",15.53
+45,6,"Most Hundreds","Chris Gayle",1
+46,6,"Most Fifties","Michael Hussey",6
+47,6,"Most Sixes","Chris Gayle",51
+48,6,"Most Fours","Michael Hussey",66
+49,7,"Most Runs","Robin Uthappa",660
+50,7,"Most Wickets","Dwayne Smith",28
+51,7,"Best Batting Average","MS Dhoni",74.20
+52,7,"Best Bowling Average","Dwayne Smith",15.53
+53,7,"Most Hundreds","Virender Sehwag",1
+54,7,"Most Fifties","Robin Uthappa",5
+55,7,"Most Sixes","Glenn Maxwell",36
+56,7,"Most Fours","Robin Uthappa",74
+57,8,"Most Runs","David Warner",562
+58,8,"Most Wickets","Dwayne Bravo",26
+59,8,"Best Batting Average","David Warner",62.44
+60,8,"Best Bowling Average","Dwayne Bravo",16.57
+61,8,"Most Hundreds","AB de Villiers",1
+62,8,"Most Fifties","David Warner",5
+63,8,"Most Sixes","AB de Villiers",26
+64,8,"Most Fours","David Warner",62
+73,9,"Most Runs","Virat Kohli",973
+74,9,"Most Wickets","Bhuvneshwar Kumar",23
+75,9,"Best Batting Average","Virat Kohli",81.08
+76,9,"Best Bowling Average","Ben Stokes",17.77
+77,9,"Most Hundreds","Virat Kohli",4
+78,9,"Most Fifties","AB de Villiers",7
+79,9,"Most Sixes","AB de Villiers",26
+80,9,"Most Fours","Virat Kohli",83
+81,10,"Most Runs","David Warner",641
+82,10,"Most Wickets","Bhuvneshwar Kumar",26
+83,10,"Best Batting Average","David Warner",71.22
+84,10,"Best Bowling Average","Bhuvneshwar Kumar",19.53
+85,10,"Most Hundreds","David Warner",1
+86,10,"Most Fifties","David Warner",6
+87,10,"Most Sixes","Chris Gayle",38
+88,10,"Most Fours","David Warner",57
+89,11,"Most Runs","Kane Williamson",735
+90,11,"Most Wickets","Sunil Narine",24
+91,11,"Best Batting Average","Kane Williamson",52.50
+92,11,"Best Bowling Average","Sunil Narine",20.08
+93,11,"Most Hundreds","KL Rahul",2
+94,11,"Most Fifties","Shane Watson",6
+95,11,"Most Sixes","Rishabh Pant",37
+96,11,"Most Fours","KL Rahul",65
+97,12,"Most Runs","David Warner",692
+98,12,"Most Wickets","Imran Tahir",26
+99,12,"Best Batting Average","David Warner",69.20
+100,12,"Best Bowling Average","Imran Tahir",16.57
+101,12,"Most Hundreds","David Warner",1
+102,12,"Most Fifties","KL Rahul",6
+103,12,"Most Sixes","Andre Russell",52
+104,12,"Most Fours","David Warner",57
+105,13,"Most Runs","KL Rahul",670
+106,13,"Most Wickets","Kagiso Rabada",30
+107,13,"Best Batting Average","KL Rahul",55.83
+108,13,"Best Bowling Average","Jasprit Bumrah",14.96
+109,13,"Most Hundreds","Shikhar Dhawan",2
+110,13,"Most Fifties","KL Rahul",5
+111,13,"Most Sixes","Ishan Kishan",30
+112,13,"Most Fours","Shikhar Dhawan",67
+113,14,"Most Runs","Ruturaj Gaikwad",635
+114,14,"Most Wickets","Harshal Patel",32
+115,14,"Best Batting Average","KL Rahul",62.60
+116,14,"Best Bowling Average","Harshal Patel",14.34
+117,14,"Most Hundreds","Jos Buttler",1
+118,14,"Most Fifties","Faf du Plessis",6
+119,14,"Most Sixes","KL Rahul",30
+120,14,"Most Fours","Ruturaj Gaikwad",64
+121,15,"Most Runs","Jos Buttler",863
+122,15,"Most Wickets","Yuzvendra Chahal",27
+123,15,"Best Batting Average","Jos Buttler",57.53
+124,15,"Best Bowling Average","Wanindu Hasaranga",16.53
+125,15,"Most Hundreds","Jos Buttler",4
+126,15,"Most Fifties","KL Rahul",4
+127,15,"Most Sixes","Jos Buttler",45
+128,15,"Most Fours","Jos Buttler",83
+137,16,"Most Runs","Shubman Gill",890
+138,16,"Most Wickets","Mohammed Shami",28
+139,16,"Best Batting Average","Shubman Gill",59.33
+140,16,"Best Bowling Average","Mohammed Shami",22.71
+141,16,"Most Hundreds","Shubman Gill",2
+142,16,"Most Fifties","Devon Conway",7
+143,16,"Most Sixes","Faf du Plessis",48
+144,16,"Most Fours","Shubman Gill",84
+145,17,"Most Runs","Virat Kohli",723
+146,17,"Most Wickets","Jasprit Bumrah",24
+147,17,"Best Batting Average","Ruturaj Gaikwad",68.90
+148,17,"Best Bowling Average","Rashid Khan",17.85
+149,17,"Most Hundreds","Jos Buttler",2
+150,17,"Most Fifties","KL Rahul",7
+151,17,"Most Sixes","Nicholas Pooran",34
+152,17,"Most Fours","Shikhar Dhawan",78
+153,18,"Most Runs","Sachin Tendulkar",673
+154,18,"Most Wickets","Chaminda Vaas",23
+155,18,"Most Wickets","Brett Lee",22
+156,18,"Most Wickets","Glenn McGrath",21
+157,18,"Best Bowling Figures","Glenn McGrath",7/15
+158,18,"Highest Individual Score","Craig Wishart",172*
+159,18,"Most Sixes","Sourav Ganguly",15
+160,19,"Most Runs","Matthew Hayden",659
+161,19,"Most Wickets","Glenn McGrath",26
+162,19,"Best Bowling Figures","Andrew Hall",5/18
+163,19,"Highest Individual Score","Imran Nazir",160
+164,19,"Most Sixes","Matthew Hayden",18
+165,20,"Most Runs","Tillakaratne Dilshan",500
+166,20,"Most Wickets","Shahid Afridi",21
+167,20,"Best Batting Average","Kumar Sangakkara",93.00
+168,20,"Best Bowling Average","Shahid Afridi",12.85
+169,20,"Most Hundreds","Upul Tharanga",2
+170,20,"Most Hundreds","AB de Villiers",2
+171,20,"Most Hundreds","Mahela Jayawardene",2
+172,20,"Most Fifties","Jonathan Trott",5
+173,20,"Most Fifties","Kumar Sangakkara",5
+174,20,"Most Sixes","Ross Taylor",14
+175,20,"Most Fours","Tillakaratne Dilshan",61
+176,21,"Most Runs","Martin Guptill",547
+177,21,"Most Wickets","Mitchell Starc",22
+178,21,"Best Batting Average","Kumar Sangakkara",108.20
+179,21,"Best Bowling Average","Mitchell Starc",10.18
+180,21,"Most Hundreds","Kumar Sangakkara",4
+181,21,"Most Fifties","AB de Villiers",3
+182,21,"Most Sixes","Chris Gayle",26
+183,21,"Most Fours","Martin Guptill",59
+184,22,"Most Runs","Rohit Sharma",648
+185,22,"Most Wickets","Mitchell Starc",27
+186,22,"Best Batting Average","Shakib Al Hasan",86.57
+187,22,"Best Bowling Average","Lockie Ferguson",19.47
+188,22,"Most Hundreds","Rohit Sharma",5
+189,22,"Most Fifties","Shakib Al Hasan",5
+190,22,"Most Sixes","Eoin Morgan",22
+191,22,"Most Fours","Shakib Al Hasan",60
+192,23,"Most Runs","Virat Kohli",765
+193,23,"Most Wickets","Mohammed Shami",24
+194,23,"Best Batting Average","Shubman Gill",94.00
+195,23,"Best Bowling Average","Mohammed Shami",10.70
+196,23,"Most Hundreds","Virat Kohli",3
+197,23,"Most Fifties","Shubman Gill",4
+198,23,"Most Sixes","Hardik Pandya",15
+199,23,"Most Fours","Shubman Gill",59
+200,24,"Most Runs","Matthew Hayden",265
+201,24,"Most Wickets","Shahid Afridi",12
+202,24,"Best Batting Average","Matthew Hayden",88.33
+203,24,"Best Bowling Average","Shahid Afridi",13.50
+204,24,"Most Hundreds",None,0
+205,24,"Most Fifties","Matthew Hayden",2
+206,24,"Most Sixes","Shahid Afridi",23
+207,24,"Most Fours","Matthew Hayden",33
+208,25,"Most Runs","Shane Watson",249
+209,25,"Most Wickets","Shahid Afridi",12
+210,25,"Best Batting Average","Kumar Sangakkara",62.50
+211,25,"Best Bowling Average","Shahid Afridi",13.08
+212,25,"Most Hundreds",None,0
+213,25,"Most Fifties","Shane Watson",3
+214,25,"Most Sixes","Shahid Afridi",23
+215,25,"Most Fours","Shane Watson",27
+216,26,"Most Runs","Mahela Jayawardene",302
+217,26,"Most Wickets","Dirk Nannes",14
+218,26,"Best Batting Average","Kevin Pietersen",62.00
+219,26,"Best Bowling Average","Dirk Nannes",13.07
+220,26,"Most Hundreds",None,0
+221,26,"Most Fifties","Mahela Jayawardene",3
+222,26,"Most Sixes","Shahid Afridi",23
+223,26,"Most Fours","Shane Harwood",28
+224,27,"Most Runs","Shane Watson",249
+225,27,"Most Wickets","Ajantha Mendis",15
+226,27,"Best Batting Average","Shane Watson",62.25
+227,27,"Best Bowling Average","Ajantha Mendis",6.33
+228,27,"Most Hundreds",None,0
+229,27,"Most Fifties","Shane Watson",3
+230,27,"Most Sixes","Shane Watson",23
+231,27,"Most Fours","Shane Watson",27
+232,28,"Most Runs","Virat Kohli",319
+233,28,"Most Wickets","Imran Tahir",12
+234,28,"Best Batting Average","Virat Kohli",106.33
+235,28,"Best Bowling Average","Imran Tahir",10.92
+236,28,"Most Hundreds",None,0
+237,28,"Most Fifties","Virat Kohli",4
+238,28,"Most Sixes","Stephan Myburgh",13
+239,28,"Most Fours","Stephan Myburgh",26
+240,29,"Most Runs","Tamim Iqbal",295
+241,29,"Most Wickets","Mohammad Nabi",12
+242,29,"Best Batting Average","Tamim Iqbal",73.75
+243,29,"Best Bowling Average","Mohammad Nabi",13.66
+244,29,"Most Fifties","Tamim Iqbal",3
+245,29,"Most Sixes","Tamim Iqbal",14
+246,29,"Most Fours","Virat Kohli",29
+247,30,"Most Runs","Babar Azam",303
+248,30,"Most Wickets","Wanindu Hasaranga",16
+249,30,"Best Batting Average","Mohammad Rizwan",70.25
+250,30,"Best Bowling Average","Wanindu Hasaranga",9.75
+251,30,"Most Fifties","Babar Azam",4
+252,30,"Most Sixes","Jos Buttler",13
+253,30,"Most Fours","David Warner",32
+254,31,"Most Runs","Virat Kohli",296
+255,31,"Most Wickets","Wanindu Hasaranga",15
+256,31,"Best Batting Average","Virat Kohli",98.66
+257,31,"Best Bowling Average","Sam Curran",11.38
+258,31,"Most Fifties","Virat Kohli",4
+259,31,"Most Sixes","Sikandar Raza",11
+260,31,"Most Fours","Suryakumar Yadav",26
+261,32,"Most Runs","Rohit Sharma",257
+262,32,"Most Wickets","Arshdeep Singh",17
+263,32,"Best Batting Average","RD Berrington ",102
+264,32,"Best Bowling Average","Rachin Ravindra",4.50
+265,32,"Most Fifties","Rohit Sharma",3
+266,32,"Most Sixes","Rovman Powell",18
+267,32,"Most Fours","Travis Head",31
+268,33,"Most Runs","Philo Wallace",221
+269,33,"Most Wickets","Jacques Kallis",8
+270,33,"Best Batting Average","Alistair Campbell",100.00
+271,33,"Best Bowling Average","Jacques Kallis",10.70
+272,33,"Most Hundreds","Philo Wallace",1
+273,33,"Most Fifties","WJ Cronje",2
+274,33,"Most Sixes","Philo Wallace",6
+275,33,"Most Fours","Philo Wallace",29
+276,34,"Most Runs","Chris Cairns",102*
+277,34,"Most Wickets","Venkatesh Prasad",3
+278,34,"Best Batting Average","Chris Cairns",102.00
+279,34,"Best Bowling Average","Venkatesh Prasad",9.00
+280,34,"Most Hundreds","Chris Cairns",1
+281,34,"Most Fifties","Chris Harris",1
+282,34,"Most Sixes","Chris Cairns",2
+283,34,"Most Fours","Chris Cairns",8
+284,35,"Most Runs","Chris Gayle",474
+285,35,"Most Wickets","Shane Harwood",10
+286,35,"Best Batting Average","Shivnarine Chanderpaul",92.00
+287,35,"Best Bowling Average","Shane Harwood",14.00
+288,35,"Most Hundreds","Shivnarine Chanderpaul",1
+289,35,"Most Fifties","Chris Gayle",2
+290,35,"Most Sixes","Chris Gayle",9
+291,35,"Most Fours","Chris Gayle",33
+292,36,"Most Runs","Ricky Ponting",288
+293,36,"Most Wickets","Wayne Parnell",11
+294,36,"Best Batting Average","Ricky Ponting",72.00
+295,36,"Best Bowling Average","Wayne Parnell",5.18
+296,36,"Most Hundreds","Shane Watson",1
+297,36,"Most Fifties","Shane Watson",2
+298,36,"Most Sixes","Shane Watson",6
+299,36,"Most Fours","Shane Watson",24
+300,37,"Most Runs","Shikhar Dhawan",363
+301,37,"Most Wickets","Ravindra Jadeja",12
+302,37,"Best Batting Average","Shikhar Dhawan",90.75
+303,37,"Best Bowling Average","Ravindra Jadeja",12.83
+304,37,"Most Hundreds","Shikhar Dhawan",2
+305,37,"Most Fifties","Shikhar Dhawan",1
+306,37,"Most Sixes","Shikhar Dhawan",4
+307,37,"Most Fours","Shikhar Dhawan",35
+308,38,"Most Runs","Shikhar Dhawan",338
+309,38,"Most Wickets","Hasan Ali",13
+310,38,"Best Batting Average","Shikhar Dhawan",67.60
+311,38,"Best Bowling Average","Hasan Ali",13.00
+312,38,"Most Hundreds","Shikhar Dhawan",1
+313,38,"Most Fifties","Shikhar Dhawan",2
+314,38,"Most Sixes","Shikhar Dhawan",4
+315,38,"Most Fours","Shikhar Dhawan",35
